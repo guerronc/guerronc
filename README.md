@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on Produbanco
+- 🌱 I’m currently learning React JS and Node JS 
+
 <!--
 **guerronc/guerronc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
